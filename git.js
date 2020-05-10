@@ -1,7 +1,7 @@
 class Git {
     constructor() {
-        this.clientId = '15a9876291d874228eca';
-        this.clientSecret = '79fc624499d280840c315ec2e15971b232fcbd77';
+        this.clientId = 'YOUR_CLIENT_ID';
+        this.clientSecret = 'YOUR_CLIENT_SECRET';
         this.repoCount = 5;
         this.reposSort = 'created: asc';
     }
